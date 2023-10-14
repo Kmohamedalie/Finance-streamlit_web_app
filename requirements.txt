@@ -1,3 +1,10 @@
+yfinance
+streamlit
+datetime
+pandas
+numpy
+cufflinks
+plotly
 altair
 boto3
 ccxt
@@ -6,5 +13,4 @@ gspread
 pandas
 regex
 requests
-s3fs==0.4.*
-streamlit==1.1.*
+
